@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mariavyatkina/per-scholas-react/issues"
   },
-  "homepage": "https://github.com/mariavyatkina/per-scholas-react#readme"
+  "homepage": "https://github.com/mariavyatkina/per-scholas-react#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
