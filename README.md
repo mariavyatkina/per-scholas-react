@@ -1,0 +1,1 @@
+This is a repository to store projects created in Per Scholas React Cohort. 
